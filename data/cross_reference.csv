@@ -11,3 +11,10 @@ DJI Agras T30/T20P spray pump,Agras T30 / T20P,pump,brushless spray pump 8 L/min
 DJI 5413 / 5415 propeller set,Agras T40 / T50,propeller,foldable carbon-composite blade set,UAV-PROP,APEX (photo-matched),apex-export.com catalog,y
 Hobbywing X9-class motor,Agras-class heavy-lift drones,motor,industrial BLDC drive motor, 800-1500 h service life,UAV-MOTOR,APEX (photo-matched),apex-export.com catalog,y
 DJI Agras-class ESC,heavy-lift ag drones, 14S-18S,esc,FOC ESC power module,UAV-ESC,APEX (photo-matched),apex-export.com catalog,y
+P-B-001864 (P-B-001760_V3 family),Sungrow SG285HX/SG320HX/SG333HX/SG350HX,power-board,main power board assembly interchangeable across 1500V HX platform,serial-matched tested pull-outs,EPC surplus,apex field guide,y
+IP68 4-pin PWM fan kit,Sungrow SG110CX (faults 036/037/043),dc-fan,matched PWM fan assembly for cooling derating faults,IND-FAN-24V,SUNON/DELTA/NMB,apex field guide,y
+L+R DC terminal board assembly,Huawei SUN2000-330KTL/215KTL/185KTL,terminal-board,matched pair DC input terminal block,terminal board assembly,APEX (photo-matched),apex field guide,y
+Delta THD0924HE-class fan tray,Huawei SUN2000 string series,dc-fan,IP68 external cooling fan tray module,fan tray module,Delta,apex field guide,y
+gPV string fuse 15A-32A 1500V,string combiner / inverter DC input,fuse,gPV fast-acting string fuse,PV-1000A10H family / CN-FUSE-10X38,Bussmann / gPV-certified CN,apex catalog+guide,y
+Type 2 DC SPD cartridge 40kA,1500V DC side,surge-protection,DC surge protection cartridge,CN-PV-BRK-SPD family,CHINT/Delixi,apex catalog+guide,y
+LEM HLSR hall-effect transducer,inverter current sensing stage,sensor,residual current / string current sensing,HLSR series,LEM,apex field guide,n
