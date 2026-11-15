@@ -1,1 +1,13 @@
 oem_part_no,oem_model,category,description,cross_ref_pn,cross_ref_brand,source,verified
+Bussmann PV-1000A10H,Huawei SUN2000-60KTL string protection,fuse,Eaton Bussmann 10x38 gPV string fuse, 1000 V DC, 1-30 A range,CN-FUSE-10X38,gPV-certified CN manufacturer,apex-export.com catalog,y
+Staubli PV-KBT4 / PV-KST4,universal string connectors,connector,MC4 plug + socket pair, 1000 V 30 A,CN-MC4-TUV,Quick (QC Solar), TUV-certified,apex-export.com catalog,y
+ABB S803PV-S20,string / DC-bus protection,breaker,3P 1000 V DC 20 A PV circuit breaker,CN-PV-BRK-SPD,CHINT / Delixi,apex-export.com catalog,y
+Infineon FF1000R17IE4,Sungrow SG110CX / SG250HX, Sineng platforms,igbt,1700 V half-bridge IGBT module for 110 kW+ power stages,FF1000R17IE4 (genuine channel),Infineon,apex-export.com catalog,y
+SUNON / DELTA / NMB 24 V fan,Sungrow SG110CX / SG125CX / SG250HX / SG350HX,dc-fan,industrial 24 V DC cooling fan, direct mounting fit,IND-FAN-24V,SUNON / DELTA / NMB,apex-export.com catalog,y
+Huawei FLT-KIT-60CX,Huawei SUN2000-60KTL / Sungrow CX-class,filter,ventilation filter kit, annual replacement,FLT-KIT-60CX,APEX universal kit,apex-export.com catalog,y
+Siemens 6ES7214-1AG40-0XB0,plant / substation control,plc,SIMATIC S7-1200 CPU + signal modules,6ES7214-1AG40-0XB0 (genuine, SIOS-verified),Siemens,apex-export.com catalog,y
+DJI Agras T40/T50 impeller pump,Agras T40 / T50 spray system,pump,impeller pump module,UAV-PUMP-IMP,APEX (photo-matched),apex-export.com catalog,y
+DJI Agras T30/T20P spray pump,Agras T30 / T20P,pump,brushless spray pump 8 L/min,UAV-PUMP-BL8,APEX (photo-matched),apex-export.com catalog,y
+DJI 5413 / 5415 propeller set,Agras T40 / T50,propeller,foldable carbon-composite blade set,UAV-PROP,APEX (photo-matched),apex-export.com catalog,y
+Hobbywing X9-class motor,Agras-class heavy-lift drones,motor,industrial BLDC drive motor, 800-1500 h service life,UAV-MOTOR,APEX (photo-matched),apex-export.com catalog,y
+DJI Agras-class ESC,heavy-lift ag drones, 14S-18S,esc,FOC ESC power module,UAV-ESC,APEX (photo-matched),apex-export.com catalog,y
